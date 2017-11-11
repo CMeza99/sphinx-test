@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","test-dir/index"],envversion:53,filenames:["index.rst","test-dir/index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:[0,1],modul:[0,1],page:[0,1],search:[0,1]},titles:["Welcome to Quickie\u2019s documentation!","Welcome to Quickie\u2019s documentation!"],titleterms:{document:[0,1],indic:[0,1],quicki:[0,1],tabl:[0,1],welcom:[0,1]}})
